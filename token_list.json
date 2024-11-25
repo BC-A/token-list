@@ -15,7 +15,7 @@
         "address": "0x2b45cD38B213Bbd3A1A848bf2467927c976877Cb",
         "symbol": "TKA",
         "decimals": 18,
-        "chainId": 1,
+        "chainId": 12345,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4922a015c4407F87432B179bb209e125432E4a2A/logo.png"
       },
       {
@@ -23,7 +23,7 @@
         "address": "0x4Af231e5E624038Cd40FC4fd5b86B39d13E1429e",
         "symbol": "TKB",
         "decimals": 18,
-        "chainId": 1,
+        "chainId": 12345,
         "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4922a015c4407F87432B179bb209e125432E4a2A/logo.png"
       }
     ]

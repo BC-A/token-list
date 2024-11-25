@@ -1,31 +1,49 @@
 {
-    "name": "Extended Token List",
-    "timestamp": "2021-01-05T20:47:02.923Z",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
+  "name": "Eigen Token List",
+  "timestamp": "2021-01-05T20:47:02.923Z",
+  "version": {
+    "major": 3,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png",
+  "keywords": [
+    "eigen",
+    "cardano"
+  ],
+  "tokens": [
+    {
+      "name": "USDCoin",
+      "address": "0xA2C4Ef228de6BA701660e75Cb06f1c9b29E53069",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 12345,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
     },
-    "tags": {},
-    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    "keywords": ["uniswap", "broken"],
-    "tokens": [
-      {
-        "name": "Token A",
-        "address": "0x2b45cD38B213Bbd3A1A848bf2467927c976877Cb",
-        "symbol": "TKA",
-        "decimals": 18,
-        "chainId": 12345,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4922a015c4407F87432B179bb209e125432E4a2A/logo.png"
-      },
-      {
-        "name": "Token B",
-        "address": "0x4Af231e5E624038Cd40FC4fd5b86B39d13E1429e",
-        "symbol": "TKB",
-        "decimals": 18,
-        "chainId": 12345,
-        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4922a015c4407F87432B179bb209e125432E4a2A/logo.png"
-      }
-    ]
-  }
-  
+    {
+      "name": "Wrapped Ether",
+      "address": "0xB965D10739e19a9158e7f713720B0145D996E370",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 12345,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    },
+    {
+      "name": "Eigen",
+      "address": "0xdFb2fAc1519eDA2b3ee1Edf578ee0509DC8633f7",
+      "symbol": "EGN",
+      "decimals": 18,
+      "chainId": 12345,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    },
+    {
+      "name": "Wrapped ADA",
+      "address": "0x3901C4670aA92a626636f7Ea1e3F029A0ECd6b68",
+      "symbol": "WADA",
+      "decimals": 18,
+      "chainId": 12345,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    }
+  ]
+}

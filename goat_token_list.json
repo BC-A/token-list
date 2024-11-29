@@ -1,0 +1,49 @@
+{
+  "name": "Eigen Token List",
+  "timestamp": "2021-01-05T20:47:02.923Z",
+  "version": {
+    "major": 3,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png",
+  "keywords": [
+    "eigen",
+    "cardano"
+  ],
+  "tokens": [
+    {
+      "name": "USDCoin",
+      "address": "0xA2C4Ef228de6BA701660e75Cb06f1c9b29E53069",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 48816,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x46830013161b9c8FEAD128A7c07642Eec138068f",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 48816,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    },
+    {
+      "name": "Eigen",
+      "address": "0x35A2478C7ffa41DcDfF4c5fEB4257167B89f5d94",
+      "symbol": "EGN",
+      "decimals": 18,
+      "chainId": 48816,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xdea5b96593A43f3fD7c6b7D34e7E3551028d5060",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "chainId": 48816,
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+    }
+  ]
+}

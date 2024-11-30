@@ -7,10 +7,10 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png",
+  "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/goat_logo.png",
   "keywords": [
     "eigen",
-    "cardano"
+    "goat"
   ],
   "tokens": [
     {
@@ -19,7 +19,7 @@
       "symbol": "USDC",
       "decimals": 18,
       "chainId": 48816,
-      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/goat_logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -27,7 +27,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 48816,
-      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/goat_logo.png"
     },
     {
       "name": "Eigen",
@@ -35,7 +35,7 @@
       "symbol": "EGN",
       "decimals": 18,
       "chainId": 48816,
-      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/goat_logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -43,7 +43,7 @@
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 48816,
-      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/goat_logo.png"
     }
   ]
 }

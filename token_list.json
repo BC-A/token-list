@@ -15,7 +15,7 @@
     "tokens": [
         {
             "name": "USDCoin",
-            "address": "0x2b45cD38B213Bbd3A1A848bf2467927c976877Cb",
+            "address": "0x1430c9c2143F97aaE765197e744BaBa7e78acaf0",
             "symbol": "USDC",
             "decimals": 18,
             "chainId": 12345,
@@ -31,7 +31,7 @@
         },
         {
             "name": "Eigen",
-            "address": "0x9ECB6f04D47FA2599449AaA523bF84476f7aD80f",
+            "address": "0x3A8C1bd531b5C1aeFBB9ebc3e021C1251cF4Ccb1",
             "symbol": "EGN",
             "decimals": 18,
             "chainId": 12345,
@@ -39,7 +39,7 @@
         },
         {
             "name": "Wrapped ADA",
-            "address": "0x4Af231e5E624038Cd40FC4fd5b86B39d13E1429e",
+            "address": "0x38435Ac0E0e9Bd8737c476F8F39a24b0735e00dc",
             "symbol": "WADA",
             "decimals": 18,
             "chainId": 12345,

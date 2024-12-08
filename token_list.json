@@ -19,7 +19,7 @@
             "symbol": "USDC",
             "decimals": 18,
             "chainId": 12345,
-            "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+            "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/usdc_logo.png"
         },
         {
             "name": "Wrapped Ether",
@@ -27,7 +27,7 @@
             "symbol": "WETH",
             "decimals": 18,
             "chainId": 12345,
-            "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+            "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eth_logo.png"
         },
         {
             "name": "Eigen",
@@ -43,7 +43,7 @@
             "symbol": "WADA",
             "decimals": 18,
             "chainId": 12345,
-            "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/eigen_logo.png"
+            "logoURI": "https://raw.githubusercontent.com/BC-A/token-list/main/cardano_logo.png"
         }
     ]
 }

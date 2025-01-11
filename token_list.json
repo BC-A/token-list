@@ -15,7 +15,7 @@
     "tokens": [
         {
             "name": "USDCoin",
-            "address": "0x2694cfcc47aAbC5C042dea104b6ac37e9924a4B1",
+            "address": "0x38435Ac0E0e9Bd8737c476F8F39a24b0735e00dc",
             "symbol": "USDC",
             "decimals": 18,
             "chainId": 12345,
@@ -23,7 +23,7 @@
         },
         {
             "name": "Wrapped Ether",
-            "address": "0xB965D10739e19a9158e7f713720B0145D996E370",
+            "address": "0x9f9F5Fd89ad648f2C000C954d8d9C87743243eC5",
             "symbol": "WETH",
             "decimals": 18,
             "chainId": 12345,
@@ -31,7 +31,7 @@
         },
         {
             "name": "Eigen",
-            "address": "0xD1ea1592b7927a2f0EE5f8567928Df0cfA687C78",
+            "address": "0x3A8C1bd531b5C1aeFBB9ebc3e021C1251cF4Ccb1",
             "symbol": "EGN",
             "decimals": 18,
             "chainId": 12345,
